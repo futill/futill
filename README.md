@@ -35,14 +35,9 @@ Here are some of my favorite projects:
 
 ## 🔧 Skills
 
-- **Languages**: C++, Python, Makefile
+- **Languages**: C/C++, Python
 - **Tools/Frameworks**: ROS, Git, OpenCV, TensorFlow
 - **Domains**: SLAM, 3D Detection, Robotics, Computer Vision
-
----
-
-## 🌟 Fun Fact
-I love playing chess in my free time and even built a [dummy_chess](https://github.com/futill/dummy_chess) project to adapt a chess engine!
 
 ---
 
