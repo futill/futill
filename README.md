@@ -4,7 +4,7 @@ I'm a passionate developer working on **Robotics**, **SLAM**, and **3D Detection
 
 🌍 **Currently**: Working from university  
 💻 **Focus**: Autonomous systems, computer vision, and ROS  
-📫 **Reach me**: [your.email@example.com](mailto:wangxi358181022@foxmail.com) | [LinkedIn](https://linkedin.com/in/futill) | [Twitter](https://x.com/futill)
+📫 **Reach me**: [wangxi358181022@foxmail.com](mailto:wangxi358181022@foxmail.com) | [LinkedIn](https://linkedin.com/in/futill) | [Twitter](https://x.com/futill)
 
 ---
 
