@@ -20,7 +20,7 @@ Here are some of my favorite projects:
   3D object detection using Python and deep learning techniques.  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- **[dummy_ros](https://github.com/futill/dummy_ros)**  
+- **[dummy_ros](https://github.com/futill/dummy_poor.git)**  
   A ROS-based project for robotic simulations.  
   ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white)
 
