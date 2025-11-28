@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hopping Wang (futill)
+# 👋 Hi, I'm Wang (futill)
 
 I'm a passionate developer working on **Robotics**, **SLAM**, and **3D Detection**. I enjoy building projects in **C++** and **Python**, and I'm always exploring new ways to solve complex problems.
 
