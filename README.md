@@ -2,7 +2,7 @@
 
 I'm a passionate developer working on **Robotics**, **SLAM**, and **3D Detection**. I enjoy building projects in **C++** and **Python**, and I'm always exploring new ways to solve complex problems.
 
-🌍 **Currently**: Working from university  
+🌍 **Currently**: Working from brainco inc  
 💻 **Focus**: Autonomous systems, computer vision, and ROS  
 📫 **Reach me**: [wangxi358181022@foxmail.com](mailto:wangxi358181022@foxmail.com) | [LinkedIn](https://linkedin.com/in/futill) | [Twitter](https://x.com/futill)
 
